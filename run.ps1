@@ -1,1 +1,2 @@
-uvicorn api.main:app --reload
+.\env\Scripts\activate
+uvicorn main:app --reload
